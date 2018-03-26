@@ -1,5 +1,7 @@
 # Share to imgur app for Android
 
+**THIS IS SO NOT DONE!** (don't even look)
+
 ## Only 2 features:
 * share to imgur intent/activity
 * main page: list of past images shared
