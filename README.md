@@ -8,6 +8,9 @@ Store/State: list of the json responses of the imgur api, maybe thumbnails
 
 Do it in [Flutter](https://flutter.io/android-release/).
 
+## Build
+
+`flutter build apk`
 
 ## Prerequsites
 
